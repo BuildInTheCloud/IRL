@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget Publisher="YOUR CN=4598A1B8-365D-4826-BDD0-0000000000000" id="com.buildinthecloud.irl" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>IRL</name>
+    <description>A base for AR applications.</description>
+    <author email="mark@buildinthecloud.com" href="http://www.buildinthecloud.com/irl">BuildInTheCloud</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <platform name="windows">
+        <preference name="windows-target-version" value="10.0" />
+        <preference name="WindowsToastCapable" value="true" />
+        <preference name="WindowsStoreIdentityName" value="64909BuildInTheCloud.IRL" />
+        <preference name="WindowsStorePublisherName" value="BuildInTheCloud" />
+        <preference name="WindowsStoreDisplayName" value="IRL" />
+    </platform>
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="FadeSplashScreenDuration" value="3000" />
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
+    </feature>
+    <plugin name="cordova-plugin-device" spec="~1.1.2" />
+    <plugin name="cordova-plugin-console" spec="~1.0.3" />
+    <plugin name="cordova-plugin-whitelist" spec="~1.2.2" />
+    <plugin name="cordova-plugin-splashscreen" spec="~3.2.2" />
+    <plugin name="cordova-plugin-statusbar" spec="~2.1.3" />
+    <plugin name="ionic-plugin-keyboard" spec="~2.2.1" />
+    <plugin name="cordova-plugin-x-toast" spec="~2.5.2" />
+    <plugin name="com.mbppower.camerapreview" spec="~0.0.8" />
+</widget>

@@ -1,0 +1,2 @@
+del platforms\android\build\outputs\apk\android-release-signed.apk
+"C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.2\zipalign.exe" -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk platforms\android\build\outputs\apk\android-release-signed.apk

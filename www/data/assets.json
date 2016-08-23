@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "name": "Alpha Rex Trophy",
+        "category": "Trophy",
+        "stack": 1,
+        "icon": "images/alpha-rex-trophy.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaRex.PrimalItemTrophy_AlphaRex'"
+    },
+    {
+        "id": 0,
+        "name": "Broodmother Trophy",
+        "category": "Trophy",
+        "stack": 1,
+        "icon": "images/broodmother-trophy.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother.PrimalItemTrophy_Broodmother'"
+    },
+    {
+        "id": 0,
+        "name": "Dragon Trophy",
+        "category": "Trophy",
+        "stack": 1,
+        "icon": "images/dragon-trophy.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon.PrimalItemTrophy_Dragon'"
+    },
+    {
+        "id": 0,
+        "name": "Megapithecus Trophy",
+        "category": "Trophy",
+        "stack": 1,
+        "icon": "images/megapithecus-trophy.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla.PrimalItemTrophy_Gorilla'"
+    },
+    {
+        "id": 0,
+        "name": "Trophy Base",
+        "category": "Structure",
+        "stack": 1,
+        "icon": "images/trophy-base.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TrophyBase.PrimalItemStructure_TrophyBase'"
+    },
+    {
+        "id": 0,
+        "name": "Trophy Wall-Mount",
+        "category": "Structure",
+        "stack": 100,
+        "icon": "images/trophy-wall-mount.png",
+        "blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TrophyWall.PrimalItemStructure_TrophyWall'"
+    }
+]

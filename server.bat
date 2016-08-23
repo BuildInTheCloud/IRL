@@ -1,0 +1,1 @@
+ionic serve --address 192.168.66.120 --nolivereload

@@ -1,0 +1,1 @@
+//-- glodals and constants
