@@ -5,7 +5,7 @@ It provides a starting point you provide the game idea.
 
 # Suggestions
 1. provide a pull request if you have improvements
-2. post a suggestion https://github.com/BuildInTheCloud/ionic.2.starter/issues
+2. post a suggestion https://github.com/BuildInTheCloud/irl/issues
 
 # Guides
 [Setup / Getting Started](SETUP.md)
