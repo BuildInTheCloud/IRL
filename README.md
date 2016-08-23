@@ -1,7 +1,7 @@
-#Ionic 2 Starter
-This is a base app for building Ionic 2 apps in Angular 2 with TypeScript.
-It provides a starting point focused on what is missing from the documentation for building apps for the stores.
-It does not focus on Angular or Ionic features but more on deployment.
+# IRL (In Real Life)
+This is a base app for building Augmented Reality apps with Ionic 2.
+
+It provides a starting point you provide the game idea.
 
 # Suggestions
 1. provide a pull request if you have improvements
