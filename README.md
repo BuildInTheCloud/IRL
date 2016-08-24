@@ -24,6 +24,8 @@ All apps take time to create. If you find this app useful, please donate so I ca
 https://PayPal.Me/buildinthecloud/
 
 # reference
+https://github.com/buildar/awe.js
+
 https://www.joshmorony.com/ionic-go-create-a-pokemon-go-style-interface-in-ionic-2/
 
 https://github.com/Tazaf/ionicitude
@@ -37,4 +39,10 @@ https://forum.ionicframework.com/t/augmented-reality-with-ionic-angularjs/44683
 https://github.com/ezartech/ezar-compass
 
 http://catchoom.com/
+
+https://github.com/peterbraden/node-opencv
+
+https://github.com/jcmellado/js-aruco
+
+
 
